@@ -1,0 +1,2 @@
+%cd%\LicenseMalwareBytes.exe
+PAUSE
