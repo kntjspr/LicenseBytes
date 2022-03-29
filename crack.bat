@@ -1,2 +1,2 @@
-%cd%\LicenseMalwareBytes.exe
+%~dp0\LicenseMalwareBytes.exe
 PAUSE
